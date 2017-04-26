@@ -1,10 +1,7 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
-import state from "./state";
+import React from "react";
+import "./App.css";
 
-class App extends Component {
-  render() {
+function App(props) {
     return (
       <div className="App">
         	<div className="wrap">
@@ -208,7 +205,6 @@ class App extends Component {
 	
       </div>
     );
-  }
 }
 
 export default App;
