@@ -1,5 +1,6 @@
+
 ### Setup
-Fork, Clone, yarn install, yarn start
+Fork, Clone, npm install, npm start
 
 ### Do
 * Take the html out of the App component and put in separate components
