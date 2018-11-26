@@ -1,3 +1,7 @@
+### Intro
+Let's practice compoment communication by adding a little complexity to a simple ecommerce site. Intead of just looking at all products, we now want to look at products that are in a certain category. The user needs to be able to click on a button in one component that then changes what happens in another component.
+This application is based on an existing website that does not use React. If you worked for this company, they might ask you to update their site to use React. 
+https://p.w3layouts.com/demos/spareparts/web/index.html
 
 ### Setup
 Fork, Clone, npm install, npm start
