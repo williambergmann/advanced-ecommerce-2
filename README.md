@@ -4,10 +4,12 @@ This application is based on an existing website that does not use React. If you
 https://p.w3layouts.com/demos/spareparts/web/index.html
 
 ### Setup
-Fork, Clone, npm install, npm start
+`npm i`, `npm start`
 
 ### Do
-* Take the html out of the App component and put in separate components
+* Read this entire section before you start coding
+
+* Take the html out of the App component and put in separate components. If a component file doesn't exist, create it.s
   * Header 
     * look for div with a className of "top-header" (in App.js)
     * take that content and place it in the Header component
@@ -21,7 +23,7 @@ Fork, Clone, npm install, npm start
   * ProductDetail 
     * look for div with className of "grid_1_of_5" (in App.js)
     * take that content and place it in the ProductDetail component
-    * Use PropTypes to require a prop "product"
+    * Send a prop called "product"
     * Use product prop to populate the UI instead of hard coded 
   * SubHeader
     * look for div with className of "sub-header" (in App.js)
