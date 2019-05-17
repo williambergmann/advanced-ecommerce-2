@@ -139,7 +139,7 @@ export default {
   "name": "Temp",
   "description": "LDR Brachytherapy of Trachea using Palladium 103",
   "price": "$29.93",
-  "imgUrl": "/images/g3.jpg",
+  "imgUrl": "/images/g3.png",
   "category": "engine",
   "rating": 5,
   "reviews": 3
@@ -175,7 +175,7 @@ export default {
   "name": "Latlux",
   "description": "Excision of Left Kidney, Percutaneous Endoscopic Approach",
   "price": "$34.48",
-  "imgUrl": "/images/g7.jpg",
+  "imgUrl": "/images/g7.png",
   "category": "engine",
   "rating": 2,
   "reviews": 2
@@ -184,7 +184,7 @@ export default {
   "name": "Flowdesk",
   "description": "Revision of Drain Dev in L Metacarpophal Jt, Open Approach",
   "price": "$21.31",
-  "imgUrl": "/images/g8.jpg",
+  "imgUrl": "/images/g8.png",
   "category": "engine",
   "rating": 3,
   "reviews": 2
@@ -202,7 +202,7 @@ export default {
   "name": "Voyatouch",
   "description": "Removal of Synth Sub from R Pleural Cav, Perc Endo Approach",
   "price": "$90.33",
-  "imgUrl": "/images/g10.jpg",
+  "imgUrl": "/images/g10.png",
   "category": "engine",
   "rating": 2,
   "reviews": 5
